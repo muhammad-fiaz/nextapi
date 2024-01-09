@@ -4,6 +4,7 @@ version = "0.0.0"
 edition = "2021"
 description = "Next API: A simple Restful API framework for Rust"
 license = "MIT"
+keywords = ["rust", "restful", "api", "framework", "nextapi"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
