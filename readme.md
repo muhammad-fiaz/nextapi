@@ -21,9 +21,9 @@
 
 </div>
 
-**Note: This project is currently in Active Development. so if you like to improve or want to add more features and enhancements, you can contribute on [GitHub repository.](http://github.com/muhammad-fiaz/nextapi/)**
+**Note: This project is currently in Active Development. so if you like to improve or want to add more features and enhancements, you can contribute on [GitHub repository.](http://github.com/muhammad-fiaz/nextapi/) by forking. make sure to star ⭐ the repository if you like it!**
 
-nextapi is a Rust crate designed to streamline RESTful API interactions. It emphasizes efficiency, reliability, and scalability for developers.
+NextAPI is a Rust crate library designed to streamline RESTful API interactions. It emphasizes efficiency, reliability, and scalability for developers.
 
 ## Features
 - Simplified API communication
