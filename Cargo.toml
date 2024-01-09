@@ -2,7 +2,7 @@
 name = "nextapi"
 version = "0.0.0"
 edition = "2021"
-description = "Next API: A simple API framework for Rust"
+description = "Next API: A simple Restful API framework for Rust"
 license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
