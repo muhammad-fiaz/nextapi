@@ -3,10 +3,10 @@
 # NextAPI
 
 [![Rust](https://github.com/muhammad-fiaz/nextapi/actions/workflows/rust.yml/badge.svg)](https://github.com/muhammad-fiaz/nextapi/actions/workflows/rust.yml)
-[![Crates.io Version](https://img.shields.io/crates/v/logly)](https://crates.io/crates/logly)
-[![Crates.io Downloads](https://img.shields.io/crates/d/logly)](https://crates.io/crates/logly)
-[![Crates.io License](https://img.shields.io/crates/l/logly)](https://opensource.org/licenses/MIT)
-[![Crates.io Stability](https://img.shields.io/badge/Crates.io%20Stability-Stable-green)](https://crates.io/crates/logly)
+[![Crates.io Version](https://img.shields.io/crates/v/nextapi)](https://crates.io/crates/nextapi)
+[![Crates.io Downloads](https://img.shields.io/crates/d/nextapi)](https://crates.io/crates/nextapi)
+[![Crates.io License](https://img.shields.io/crates/l/nextapi)](https://opensource.org/licenses/MIT)
+[![Crates.io Stability](https://img.shields.io/badge/Crates.io%20Stability-Stable-green)](https://crates.io/crates/nextapi)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub issues](https://img.shields.io/github/issues/muhammad-fiaz/nextapi)](https://github.com/muhammad-fiaz/nextapi/issues)
 [![GitHub forks](https://img.shields.io/github/forks/muhammad-fiaz/nextapi)](http://github.com/muhammad-fiaz/nextapi/network)
