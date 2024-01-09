@@ -1,0 +1,17 @@
+[package]
+name = "nextapi"
+version = "0.0.0"
+edition = "2021"
+description = "Next API: A simple API framework for Rust"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+reqwest = { version = "0.11.23", features = [] }
+tokio = { version = "1.35.1", features = ["rt", "rt-multi-thread", "macros"] }
+
+
+[[bin]]
+name = "lib"
+path = "src/lib.rs"
