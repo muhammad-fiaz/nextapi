@@ -21,7 +21,7 @@
 
 </div>
 
-**Note: This project is currently in Active Development. so if you like to improve or want to add more features and enhancements, you can contribute on [GitHub repository.](http://github.com/muhammad-fiaz/nextapi/) by forking. make sure to star ⭐ the repository if you like it!**
+**Note: This project is currently in Active Development. so if you like to improve or want to add more features and enhancements, you can contribute on [GitHub repository.](http://github.com/muhammad-fiaz/nextapi/) by forking. make sure to star '⭐' the repository if you like it !**
 
 NextAPI is a Rust crate library designed to streamline RESTful API interactions. It emphasizes efficiency, reliability, and scalability for developers.
 
